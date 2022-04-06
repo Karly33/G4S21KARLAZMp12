@@ -1,0 +1,3 @@
+{"nombre":"karla","edad":32,"correo":"personal"}
+{"nombre":"lalo","edad":34,"correo":"no tiene"}
+{"nombre":"jaime","edad":42,"correo":"personal@gmail.com"}
